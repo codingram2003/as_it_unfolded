@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/static/css/main.691dc666.css",
+    "main.js": "/static/js/main.8b9dc1a4.js",
+    "static/media/pacifico-regular.ttf": "/static/media/pacifico-regular.37e38de14e4acb81546f.ttf",
+    "static/media/aiu.jpg": "/static/media/aiu.6a280b08d1a2e6c0e02b.jpg",
+    "static/media/Delio-trial.ttf": "/static/media/Delio-trial.1191fe8b7c6959808a04.ttf",
+    "static/media/Blanka-Regular.otf": "/static/media/Blanka-Regular.16f6265b20de0db4a921.otf",
+    "index.html": "/index.html",
+    "main.691dc666.css.map": "/static/css/main.691dc666.css.map",
+    "main.8b9dc1a4.js.map": "/static/js/main.8b9dc1a4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.691dc666.css",
+    "static/js/main.8b9dc1a4.js"
+  ]
+}
